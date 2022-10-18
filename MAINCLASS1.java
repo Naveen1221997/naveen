@@ -41,6 +41,9 @@ public class MAINCLASS1
 		Vivo v=new Vivo();
 		v.CameraFunction("singletap");
 		v.CameraFunction("");
+		
+		
+		System.out.println("\"\"");
 	
 }
 
